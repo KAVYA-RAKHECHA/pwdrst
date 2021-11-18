@@ -1,0 +1,1 @@
+<label for="lbl">THE GIVEN PASSWORD WAS CORRECT</label>;  
